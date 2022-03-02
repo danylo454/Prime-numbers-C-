@@ -1,0 +1,15 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\bin\Debug\net6.0\Homework_Thread.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\bin\Debug\net6.0\Homework_Thread.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\bin\Debug\net6.0\Homework_Thread.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\bin\Debug\net6.0\Homework_Thread.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\bin\Debug\net6.0\ref\Homework_Thread.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\bin\Debug\net6.0\Homework_Thread.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\ref\Homework_Thread.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\Homework_Thread\Homework_Thread\obj\Debug\net6.0\Homework_Thread.genruntimeconfig.cache
